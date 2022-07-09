@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 98vh;
-  background-color: black;
+  background-color: rgb(102, 222, 233);
 }
 input {
   border-radius: 5px;
